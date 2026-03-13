@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "ahrefs": {
+      "command": "npx",
+      "args": [
+        "--prefix=/Users/gemmasmith/.global-node-modules",
+        "@ahrefs/mcp"
+      ],
+      "env": {
+        "API_KEY": "9DA_.MbAOsd7LEWgStWIpQOSh6Tp1NW41RllaaEVkMzdQL2w2WGcyNUZMYlNzL2JwN0tVclVzZUEwQ0hCaXg0K3VVL1lRVjNaNDNFRTVHVnJ2S1IzSzVReVFLVUh3MVZkQXFTTmU2UG9wYWZRV3FPTldJbEM3dVU0SyszMzdpY0hEN0NYeEExMG5Zd0lHY0U.wfmL"
+      }
+    }
+  }
+}
